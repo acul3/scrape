@@ -1,0 +1,17 @@
+curl 'https://nasional.kompas.com/search/2020-05-31/2' \
+  -H 'authority: nasional.kompas.com' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'accept-language: en,en-US;q=0.9,id;q=0.8,de;q=0.7,ms;q=0.6' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: ukid=77aa3b98eb9fb2215e8183f593594a19; _ym_uid=1610900264400307625; _ym_d=1627587085; _badge_temp_session=1; badge_session=1; _cb=EDgJhDl3JelIQ0nn; _gid=GA1.2.211539613.1655746531; __gads=ID=33aa3c83a359ebff:T=1655746530:S=ALNI_MZVbp13VgKSap3SUoWvYUp5DVwQcQ; _jxx=62057f70-f0bf-11ec-929f-93913edfc60d; _jx=62057f70-f0bf-11ec-929f-93913edfc60d; _jxx=62057f70-f0bf-11ec-929f-93913edfc60d; _jx=62057f70-f0bf-11ec-929f-93913edfc60d; _ga=GA1.3.336003114.1655746531; _jxghid=38cf1726-568f-405d-a1ec-f3df59c6363e; vignette_cookies=1; _jxxs=1655837635-62057f70-f0bf-11ec-929f-93913edfc60d; _jxs=1655837635-62057f70-f0bf-11ec-929f-93913edfc60d; AMP_TOKEN=%24NOT_FOUND; _cb_svref=null; _jxxs=1655837635-62057f70-f0bf-11ec-929f-93913edfc60d; _jxghid=38cf1726-568f-405d-a1ec-f3df59c6363e; _jxs=1655837635-62057f70-f0bf-11ec-929f-93913edfc60d; g_state={"i_p":1655924083162,"i_l":2}; _gid=GA1.3.211539613.1655746531; _ga_77DJNQ0227=GS1.1.1655837634.10.1.1655838164.7; _ga_7KGEC8EBBM=GS1.1.1655837634.10.1.1655838164.7; _ga=GA1.2.336003114.1655746531; _dc_gtm_UA-3374285-20=1; _dc_gtm_UA-93462315-18=1; _chartbeat2=.1610900175070.1655838164150.0000000000000011.CE5snaCWv7q2Go52hCtfvFdCODPTr.2; _chartbeat5=; cto_bundle=yxQr6F9oWEpaS2h2aiUyRmp3aXpTYzVmd1prVmVaMmhVY1IlMkJ4OVJvUk5mM2RtN1JCTElRMEJyUmFZUU41dDljJTJCRCUyRmViaUJlTUclMkZrJTJCTk5CJTJCRFV3bzhFZlh5TU16djNRJTJGTVJzWE00MkJaYWx6MlV2NktuVnhXdDRjJTJCSmxPY0ZtRGVPZXVxcFlhNWZjZ0pYc3NWVGVjVlJ2ZVZXJTJGdyUzRCUzRA' \
+  -H 'referer: https://nasional.kompas.com/search/2020-05-31' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36' \
+  --compressed
